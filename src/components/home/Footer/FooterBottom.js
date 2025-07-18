@@ -12,7 +12,7 @@ const FooterBottom = () => {
           Copyright 2022 | Orebi shopping | All Rights Reserved |
           <a href="" target="_blank" rel="noreferrer">
             <span className="ml-1 font-medium group-hover:text-primeColor">
-              Powered by ReactBD.com
+            
             </span>
           </a>
         </p>
